@@ -1,5 +1,5 @@
 ## 概要
-NuxtのDocker開発環境サンプル
+Nuxt.jsのDocker開発環境サンプル
 
 ## 開発環境構築手順
 ```
